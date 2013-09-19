@@ -1,7 +1,4 @@
-drupalcamp-assets
-=================
-
-Drupal Camp Ottawa Assets
+#Drupal Camp Assets
 
 ##Design Notes for Twitter:
 
